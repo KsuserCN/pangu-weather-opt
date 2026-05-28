@@ -1,6 +1,6 @@
 <!--
 Copyright (c) 2026 Qintsg, KsuserKQY, and Raying-9
-Licensed under the Academic Free License version 3.0
+SPDX-License-Identifier: AFL-3.0
 -->
 # README.md
 
@@ -27,6 +27,11 @@ pass
 ```python
 pass
 ```
+
+## 许可证
+
+- 源代码：AFL-3.0 ([`LICENSE`](LICENSE))
+- 文档（`docs/`）：CC-BY-SA-4.0 ([`docs/LICENSE`](docs/LICENSE))
 
 ## Contributor
 
